@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Criz</h1>
 <h3 align="center">A passionate rising cybersecurity student with strong technical skills and an academic background in IT, machine learning, and computer penetration.</h3>
-<img align="right" alt="Coding" width="400" src= “https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fthenextrushmagazine.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fsource.gif%3Fresize%3D721%252C405%26ssl%3D1&f=1&nofb=1&ipt=b66637eb7a642491e0e734fcfb83ad5452454efa8335a790c156a62ef480052d&ipo=images”>
+<img align="right" alt="Coding" width="400" src= “https://i.gifer.com/origin/12/125e51c81d9650752b2aeafa10bdc838.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criznlzn&label=Profile%20views&color=0e75b6&style=flat" alt="criznlzn" /> </p>
 
