@@ -1,7 +1,7 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F14f00f5b56ebec7a43abc287578091cc%2Ftenor.gif%3Fitemid%3D16125910&f=1&nofb=1&ipt=8ab055df18c55344bd0bf838ed336dbef7b9d01da1ae729cb3671e0579fc6d4c&ipo=images)](https://criznlzn.io)
 <h1 align="center">Hi 👋, I'm Criz</h1>
 <h3 align="center">A passionate rising cybersecurity student with strong technical skills and an academic background in IT, machine learning, and computer penetration.</h3>
-<img align="center" alt="Coding" width="400" src= “[https://i.gifer.com/origin/12/125e51c81d9650752b2aeafa10bdc838.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F14f00f5b56ebec7a43abc287578091cc%2Ftenor.gif%3Fitemid%3D16125910&f=1&nofb=1&ipt=8ab055df18c55344bd0bf838ed336dbef7b9d01da1ae729cb3671e0579fc6d4c&ipo=images)”>
+<img align="right" alt="Coding" width="400" src= “https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-v5-vuQfHMqs%2FW7zocngKz0I%2FAAAAAAAAr0g%2FaN3WJmIBIaIgtyaspfCoUcmRdlKDLmbhQCPcBGAYYCw%2Fs320%2Fcyber.gif&f=1&nofb=1&ipt=9bf23870db6a6dc1066678dfd63770b2af210c6b4be69e540a94b65f2a687352&ipo=images”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criznlzn&label=Profile%20views&color=0e75b6&style=flat" alt="criznlzn" /> </p>
 
