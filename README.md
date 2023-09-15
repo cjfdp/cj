@@ -1,6 +1,7 @@
 <div align="center">
-  [![MasterHead](https://c.tenor.com/tZ2Xd8LqAnMAAAAC/tenor.gif)]
+  <img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAC/tenor.gif" alt="MasterHead">
 </div>
+
 <h1 align="center">Hi 👋, I'm Criz</h1>
 <h3 align="center">A passionate rising cybersecurity student with strong technical skills and an academic background in IT, machine learning, and computer penetration.</h3>
 
