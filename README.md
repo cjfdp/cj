@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criznlzn&label=Profile%20views&color=0e75b6&style=flat" alt="criznlzn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cjubetors" target="blank"><img src="https://img.shields.io/twitter/follow/cjubetors?logo=twitter&style=for-the-badge" alt="cjubetors" /></a> </p>
-
 - 🔭 I’m currently working on **my KeyLogger Project**
 
 - 🌱 I’m currently learning **Security essentials**
@@ -23,7 +21,7 @@
 
 - 💬 Ask me about **CS**
 
-- 📫 How to reach me **criznlzn@gmail.com**
+- 📫 How to reach me **chrissgentile@gmail.com**
 
 - ⚡ Fun fact **I enjoy House**
 
