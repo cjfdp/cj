@@ -2,12 +2,12 @@
   <img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAC/tenor.gif" alt="MasterHead">
 </div>
 
-<h1 align="center">Hi 👋, I'm Criz</h1>
+<h1 align="center">Hi 👋, I'm cj</h1>
 <h3 align="center">A passionate rising cybersecurity student with strong technical skills and an academic background in IT, machine learning, and computer penetration.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-v5-vuQfHMqs%2FW7zocngKz0I%2FAAAAAAAAr0g%2FaN3WJmIBIaIgtyaspfCoUcmRdlKDLmbhQCPcBGAYYCw%2Fs320%2Fcyber.gif&f=1&nofb=1&ipt=9bf23870db6a6dc1066678dfd63770b2af210c6b4be69e540a94b65f2a687352&ipo=images"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=criznlzn&label=Profile%20views&color=0e75b6&style=flat" alt="criznlzn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cjfdp&label=Profile%20views&color=0e75b6&style=flat" alt="cjfdp" /> </p>
 
 - 🔭 I’m currently working on **my KeyLogger Project**
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **learning AI and understanding how expansive the digital crime world can be**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CrizNlzn?tab=repositories](https://github.com/CrizNlzn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/cjfdp?tab=repositories](https://github.com/cjfdp?tab=repositories)
 
 - 💬 Ask me about **CS**
 
@@ -27,8 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cjubetors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjubetors" height="30" width="40" /></a>
-<a href="https://discord.gg/criznlzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="criznlzn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
